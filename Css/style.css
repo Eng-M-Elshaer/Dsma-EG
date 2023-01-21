@@ -531,6 +531,9 @@ ul li p:hover {
 .bg-light-green{
     background-color:  #0dbda1 ;
 }
+.bg-black{
+    background-color: #000;
+}
 /* .setting:hover{
 left: ;
 } */

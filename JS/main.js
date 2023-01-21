@@ -24,7 +24,16 @@ $(document).ready(function () {
         $('.list-page li p').css('border-color', color);
         $('.active-page').css('background-color', color);
         
-
+        if(color == "rgb(255, 255, 255)"){
+            $('.floating-buttom a').css('color', 'black');
+            $('.shape').css('color', 'black');
+            $('.imgdesc h6 , .fa-search').css('color', 'black');
+        }
+        else{
+            $('.floating-buttom a').css('color', 'white');
+            $('.shape').css('color', 'white');
+            $('.imgdesc h6 , .fa-search').css('color', 'white')
+        }
 
         $('.navbar-dark .navbar-nav .nav-link').hover(function () {
             // over
@@ -46,7 +55,7 @@ $(document).ready(function () {
         
         $('.instagram a').hover(function () {
             // over
-            alert("test");
+            
             $(this).css('color', color);
            
 
@@ -122,6 +131,18 @@ $(document).ready(function () {
         $('.navbar-brand').css('border-color', color);
         $('.list-page li p').css('border-color', color);
         $('.active-page').css('background-color', color);
+       
+        if(color == "rgb(255, 255, 255)"){
+            $('.floating-buttom a').css('color', 'black');
+            $('.shape').css('color', 'black');
+            $('.imgdesc h6 , .fa-search').css('color', 'black');
+        }
+        else{
+            $('.floating-buttom a').css('color', 'white');
+            $('.shape').css('color', 'white');
+            $('.imgdesc h6 , .fa-search').css('color', 'white')
+        }
+
 
 
     });
