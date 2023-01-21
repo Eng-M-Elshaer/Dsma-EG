@@ -1,6 +1,6 @@
-
 $(document).ready(function () {
-
+    
+    $('.instagram a').css('color', 'yellow');
     // get color from local storage 
     var color;
     if (localStorage.getItem("color") == null) {
@@ -23,6 +23,7 @@ $(document).ready(function () {
         $('.navbar-brand').css('border-color', color);
         $('.list-page li p').css('border-color', color);
         $('.active-page').css('background-color', color);
+        
 
 
         $('.navbar-dark .navbar-nav .nav-link').hover(function () {
@@ -42,6 +43,19 @@ $(document).ready(function () {
             $(this).css('color', 'rgb(226, 225, 225)')
         }
         );
+        
+        $('.instagram a').hover(function () {
+            // over
+            alert("test");
+            $(this).css('color', color);
+           
+
+        }, function () {
+            // out
+            $(this).css('color', 'rgb(226, 225, 225)')
+        }
+        );
+        
         $('.social li a').hover(function () {
             // over
             $(this).css('color', color);

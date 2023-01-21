@@ -363,10 +363,12 @@ ul li p:hover {
 }
 .contact-icon{
     padding: 40px;
-    border: 1px solid #ffa500;
+    /* border: 1px solid #ffa500; */
     font-size: 20px;
     line-height: 20px;
-    border-radius: 100%;
+    border-radius: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
     
 }
 .contact-addres
