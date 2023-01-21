@@ -19,7 +19,7 @@ let works = [
     { imagePath: "Images/Work/17.jpg", instaLink: "https://www.instagram.com/p/CgFKygzIGDr/?utm_source=ig_web_copy_link" },
 ];
 let reviews = [
-    { imagePath: "Images/Work/1.jpg", reviewText: `المكياج جميل جدا وطبيعي بيظهر جمال العيون الألوان هادية وثابته المكياج خامات أصلية مش تقليد في ذوق وجمال من غير بهرجة تسلم ايديك يا قمر`},
+    { imagePath: "https://eng-m-elshaer.github.io/Dsma-EG/Images/ana.jpg", reviewText: `المكياج جميل جدا وطبيعي بيظهر جمال العيون الألوان هادية وثابته المكياج خامات أصلية مش تقليد في ذوق وجمال من غير بهرجة تسلم ايديك يا قمر`},
     { imagePath: "Images/Work/2.jpg", reviewText: `شغل الصراحه 10/10 من غير ولا غلطه و التثبيت فعلا تحفه ⭐⭐⭐⭐⭐ وفعلا الحاجات الي بتسخدمها مش بتأثر على البشره خالص ❤️👌🏻 ومش هيبقى اخر تعاون ابدا 🥰🥰`},
     { imagePath: "Images/Work/3.jpg", reviewText: ` بجد شغلك تحفة جدا � وكل الماتريال اورجينال � ان شاء الله دائما متفوقة ومميزة �` },
     { imagePath: "Images/Work/4.jpg", reviewText: `شغل تحفه والماتريال حلوه اوي ومبيتمسحش حاجه منه ثاااابت بجد تسلم ايدك شغلك جميل 😍😍` },
@@ -60,7 +60,7 @@ let reviews = [
     for (const review of reviews) {
         container.innerHTML += `
         <div class="contact-content media col-md-5">
-            <div class="contact-icon mt-1" style="    background-image: url(${review.imagePath});                        ">
+            <div class="contact-icon mt-1" style="    background-image: url(${review.imagePath}); ">
                 <!-- <img src="Images/Safaa Kandil.png" class="img-fluid" alt=""> -->
                 <!-- <i class="fa fas fa-user"></i> -->
             </div>
