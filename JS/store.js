@@ -34,6 +34,10 @@ let works = [
         instaLink: "https://www.instagram.com/p/CgJ8RgRI1WT/?utm_source=ig_web_copy_link" },
     { imagePath: "https://scontent.fcai20-1.fna.fbcdn.net/v/t39.30808-6/294258204_177447994693158_7887005057803353650_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=QQP_iWY_V6YAX9Y57li&_nc_ht=scontent.fcai20-1.fna&oh=00_AfBO5emcT-qBBBslHSI3o7UBJwf014X-v33Mpxee0zNYZQ&oe=63D12A97",
         instaLink: "https://www.instagram.com/p/CgFKygzIGDr/?utm_source=ig_web_copy_link" },
+    { imagePath: "https://scontent.fcai20-1.fna.fbcdn.net/v/t39.30808-6/323426225_5044301455672777_29540053737088694_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=DkqxPzJCJX4AX9Yht_B&_nc_ht=scontent.fcai20-1.fna&oh=00_AfCTIlfFCUn74C6gIdKb0QbfDiO5t4ulZvF6jWDHGcJ-9w&oe=63D5DD0D",
+        instaLink: "https://www.instagram.com/p/Cnww6ihI_w0/?utm_source=ig_web_copy_link" },
+    { imagePath: "https://scontent.fcai20-1.fna.fbcdn.net/v/t39.30808-6/327568646_878621536708931_7287080644939591737_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=M6N5O4DoSNMAX8pj2vr&_nc_ht=scontent.fcai20-1.fna&oh=00_AfCOO0aAQHJqdwqjSr2iGyxC5CM_QUB7qDIKIy5rvRFVfg&oe=63D5F3C4",
+        instaLink: "https://www.instagram.com/p/Cn16c-4I7CK/?utm_source=ig_web_copy_link" },
 ];
 let reviews = [
     { imagePath: "https://scontent-hbe1-1.xx.fbcdn.net/v/t1.18169-1/12507437_10153815615013070_8707719632106314630_n.jpg?stp=dst-jpg_s200x200&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_ohc=iohsFKwnwn8AX9Uzim7&_nc_ht=scontent-hbe1-1.xx&oh=00_AfDVFoSkFTBDLJ5F644cssb09nlNW1jR7fIVDPAd__m2Ug&oe=63F37DCC",
