@@ -35,6 +35,7 @@ let works = [
     { imagePath: "https://scontent.fcai20-1.fna.fbcdn.net/v/t39.30808-6/294258204_177447994693158_7887005057803353650_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=QQP_iWY_V6YAX9Y57li&_nc_ht=scontent.fcai20-1.fna&oh=00_AfBO5emcT-qBBBslHSI3o7UBJwf014X-v33Mpxee0zNYZQ&oe=63D12A97",
         instaLink: "https://www.instagram.com/p/CgFKygzIGDr/?utm_source=ig_web_copy_link" },
 ];
+
 let reviews = [
     { imagePath: "https://scontent-hbe1-1.xx.fbcdn.net/v/t1.18169-1/12507437_10153815615013070_8707719632106314630_n.jpg?stp=dst-jpg_s200x200&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_ohc=iohsFKwnwn8AX9Uzim7&_nc_ht=scontent-hbe1-1.xx&oh=00_AfDVFoSkFTBDLJ5F644cssb09nlNW1jR7fIVDPAd__m2Ug&oe=63F37DCC",
         reviewText: `المكياج جميل جدا وطبيعي بيظهر جمال العيون الألوان هادية وثابته المكياج خامات أصلية مش تقليد في ذوق وجمال من غير بهرجة تسلم ايديك يا قمر`},
@@ -48,9 +49,8 @@ let reviews = [
         reviewText: `عايزه اشكرك على الشغل التحفه الي كنتِي عملاه فعلا من غير ولا غلطه والميكب محصلوش حاجه طول اليوم وكفاية الماتريال كلها اوريجنال تسلم أيدك ♥️`},
 ];
 
-  function renderWorks(works, containerDivId) {
+function renderWorks(works, containerDivId) {
     let container = document.getElementById(containerDivId);
-
     for (const work of works) {
         container.innerHTML += `
         <div class="col-md-4 mix one ">
@@ -67,18 +67,17 @@ let reviews = [
                             </div>
                         </a>
                     </div>
-
+        
                 </div>
             </div>
         </div>
         
         `
     }
-
 }
-  function renderReviews(reviews, containerDivId) {
-    let container = document.getElementById(containerDivId);
 
+function renderReviews(reviews, containerDivId) {
+    let container = document.getElementById(containerDivId);
     for (const review of reviews) {
         container.innerHTML += `
         <div class="contact-content media col-md-5">
@@ -92,10 +91,9 @@ let reviews = [
                 </p>
             </div>
         </div>
-        
         `
     }
-
 }
+
 renderWorks(works , "myWork");
 renderReviews(reviews , "reviews");
