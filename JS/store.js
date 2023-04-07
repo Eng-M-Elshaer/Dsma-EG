@@ -91,7 +91,7 @@ function renderWorks(works, containerDivId) {
                         <a target="_blank" href="${work.instaLink}">
                             <div
                                 class="mb-4 position-relative d-flex flex-wrap justify-content-center align-items-center">
-                                <img src="${work.imagePath}" class="img-fluid" alt="">
+                                <img src="./${work.imagePath}" class="img-fluid" alt="">
                                 <div class="position-absolute w-100 h-100 d-flex flex-wrap justify-content-center align-content-center imgdesc  "
                                     id="imgdesc">
                                 </div>
@@ -112,7 +112,7 @@ function renderReviews(reviews, containerDivId) {
     for (const review of reviews) {
         container.innerHTML += `
         <div class="contact-content media col-md-5">
-            <div class="contact-icon mt-1" style="    background-image: url(${review.imagePath}); ">
+            <div class="contact-icon mt-1" style="    background-image: url(./${review.imagePath}); ">
                 <!-- <img src="Images/Safaa Kandil.png" class="img-fluid" alt=""> -->
                 <!-- <i class="fa fas fa-user"></i> -->
             </div>
