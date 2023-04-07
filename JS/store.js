@@ -1,6 +1,6 @@
 
 let works = [
-    { imagePath: "Images/Work/1.JPEG",
+    { imagePath: "Images/Work/1.jpeg",
         instaLink: "https://www.instagram.com/p/CnR5dXYI5vf/?utm_source=ig_web_copy_link" },
 
     { imagePath: "Images/Work/2.JPEG",
