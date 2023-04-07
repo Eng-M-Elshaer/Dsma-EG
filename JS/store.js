@@ -1,48 +1,48 @@
 
 let works = [
-    { imagePath: "Images/Work/1.JPEG",
+    { imagePath: "Images/Work/1.jpeg",
         instaLink: "https://www.instagram.com/p/CnR5dXYI5vf/?utm_source=ig_web_copy_link" },
 
-    { imagePath: "Images/Work/2.JPEG",
+    { imagePath: "Images/Work/2.jpeg",
         instaLink: "https://www.instagram.com/p/CnPSvgjLnsI/?utm_source=ig_web_copy_link" },
 
-    { imagePath: "Images/Work/3.JPEG",
+    { imagePath: "Images/Work/3.jpeg",
         instaLink: "https://www.instagram.com/p/CmwZEVtL_om/?utm_source=ig_web_copy_link" },
 
-    { imagePath: "Images/Work/4.JPEG",
+    { imagePath: "Images/Work/4.jpeg",
         instaLink: "https://www.instagram.com/p/CmWpV9WIBLg/?utm_source=ig_web_copy_link" },
 
-    { imagePath: "Images/Work/5.JPEG",
+    { imagePath: "Images/Work/5.jpeg",
         instaLink: "https://www.instagram.com/p/Cl1HZEGI8My/?utm_source=ig_web_copy_link" },
 
-    { imagePath: "Images/Work/6.JPEG",
+    { imagePath: "Images/Work/6.jpeg",
         instaLink: "https://www.instagram.com/p/ClymyPAoqZf/?utm_source=ig_web_copy_link" },
 
-    { imagePath: "Images/Work/7.JPEG",
+    { imagePath: "Images/Work/7.jpeg",
         instaLink: "https://www.instagram.com/p/Cllt-P3oqev/?utm_source=ig_web_copy_link" },
 
-    { imagePath: "Images/Work/8.JPEG",
+    { imagePath: "Images/Work/8.jpeg",
         instaLink: "https://www.instagram.com/p/CljJUnEodzB/?utm_source=ig_web_copy_link" },
 
-    { imagePath: "Images/Work/9.JPEG",
+    { imagePath: "Images/Work/9.jpeg",
         instaLink: "https://www.instagram.com/p/ClgkY69IsDg/?utm_source=ig_web_copy_link" },
 
-    { imagePath: "Images/Work/10.JPEG",
+    { imagePath: "Images/Work/10.jpeg",
         instaLink: "https://www.instagram.com/p/ClOizjNrJXh/?utm_source=ig_web_copy_link" },
 
-    { imagePath: "Images/Work/11.JPEG",
+    { imagePath: "Images/Work/11.jpeg",
         instaLink: "https://www.instagram.com/p/Ck_GBt7rXnQ/?utm_source=ig_web_copy_link" },
 
     { imagePath: "Images/Work/12.JPEG",
         instaLink: "https://www.instagram.com/reel/CgKJmUADoWk/?utm_source=ig_web_copy_link" },
 
-    { imagePath: "Images/Work/13.JPEG",
+    { imagePath: "Images/Work/13.jpeg",
         instaLink: "https://www.instagram.com/p/Cj3LXjkr39Z/?utm_source=ig_web_copy_link" },
 
-    { imagePath: "Images/Work/14.JPG",
+    { imagePath: "Images/Work/14.jpg",
         instaLink: "https://www.instagram.com/p/Cja2AubLDPG/?utm_source=ig_web_copy_link" },
 
-    { imagePath: "Images/Work/15.JPEG",
+    { imagePath: "Images/Work/15.jpeg",
         instaLink: "https://www.instagram.com/p/Chk0WoxLve-/?utm_source=ig_web_copy_link" },
 
     { imagePath: "Images/Work/16.JPEG",
@@ -51,19 +51,19 @@ let works = [
     { imagePath: "Images/Work/17.JPEG",
         instaLink: "https://www.instagram.com/p/CgFKygzIGDr/?utm_source=ig_web_copy_link" },
 
-    { imagePath: "Images/Work/18.JPEG",
+    { imagePath: "Images/Work/18.jpeg",
         instaLink: "https://www.instagram.com/p/Cnww6ihI_w0/?utm_source=ig_web_copy_link" },
         
-    { imagePath: "Images/Work/19.JPEG",
+    { imagePath: "Images/Work/19.jpeg",
         instaLink: "https://www.instagram.com/p/Cn16c-4I7CK/?utm_source=ig_web_copy_link" },
 
-    { imagePath: "Images/Work/20.JPEG",
+    { imagePath: "Images/Work/20.jpeg",
         instaLink: "https://www.instagram.com/p/CopvttTLKV4/?utm_source=ig_web_copy_link" },
 
-    { imagePath: "Images/Work/21.JPEG",
+    { imagePath: "Images/Work/21.jpeg",
         instaLink: "https://www.instagram.com/p/Cp0FcN1OAMO/?utm_source=ig_web_copy_link" },
 
-    { imagePath: "Images/Work/22.JPEG",
+    { imagePath: "Images/Work/22.jpeg",
         instaLink: "https://www.instagram.com/p/Cp2qPshNzin/?utm_source=ig_web_copy_link" },
 ];
 
