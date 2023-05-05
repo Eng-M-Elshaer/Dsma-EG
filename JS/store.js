@@ -65,6 +65,12 @@ let works = [
 
     { imagePath: "Images/Work/22.jpeg",
         instaLink: "https://www.instagram.com/p/Cp2qPshNzin/?utm_source=ig_web_copy_link" },
+
+    { imagePath: "Images/Work/23.jpeg",
+        instaLink: "https://www.instagram.com/p/Crvks1NrGco/?utm_source=ig_web_copy_link" },
+
+    { imagePath: "Images/Work/24.jpeg",
+        instaLink: "https://www.instagram.com/p/CryJfxPJjhl/?utm_source=ig_web_copy_link" },
 ];
 
 let reviews = [
