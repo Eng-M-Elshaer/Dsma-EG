@@ -71,6 +71,15 @@ let works = [
 
     { imagePath: "Images/Work/24.jpeg",
         instaLink: "https://www.instagram.com/p/CryJfxPJjhl/?utm_source=ig_web_copy_link" },
+
+    { imagePath: "Images/Work/25.jpeg",
+        instaLink: "https://www.instagram.com/p/CryJfxPJjhl/?utm_source=ig_web_copy_link" },
+
+    { imagePath: "Images/Work/26.jpeg",
+        instaLink: "https://www.instagram.com/p/CryJfxPJjhl/?utm_source=ig_web_copy_link" },
+
+    { imagePath: "Images/Work/27.jpeg",
+        instaLink: "https://www.instagram.com/p/CryJfxPJjhl/?utm_source=ig_web_copy_link" },
 ];
 
 let reviews = [
