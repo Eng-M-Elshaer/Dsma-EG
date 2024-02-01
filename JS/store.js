@@ -73,13 +73,13 @@ let works = [
         instaLink: "https://www.instagram.com/p/CryJfxPJjhl/?utm_source=ig_web_copy_link" },
 
     { imagePath: "Images/Work/25.jpeg",
-        instaLink: "https://www.instagram.com/p/CryJfxPJjhl/?utm_source=ig_web_copy_link" },
+        instaLink: "https://www.instagram.com/reel/C2F6HmGIwCB/" },
 
     { imagePath: "Images/Work/26.jpeg",
-        instaLink: "https://www.instagram.com/p/CryJfxPJjhl/?utm_source=ig_web_copy_link" },
+        instaLink: "https://www.instagram.com/reel/C2DN4URIt3b/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" },
 
     { imagePath: "Images/Work/27.jpeg",
-        instaLink: "https://www.instagram.com/p/CryJfxPJjhl/?utm_source=ig_web_copy_link" },
+        instaLink: "https://www.instagram.com/reel/C1u43BPIq9q/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" },
 ];
 
 let reviews = [
